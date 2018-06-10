@@ -1,0 +1,175 @@
+
+Areas of Interest: 
+	- Historic Budget Numbers
+	- Historic Revenue Sources
+	- Historic Population
+	- Historic College/ Secondary / Vocational Education Rates
+	- Historic Tax Rates
+	- Dam Ownership
+	- Probable Longterm Capital Expenditures
+
+
+Annual Total Formulas:
+
+Total Expenditures Budgeted = 
+	+ Total City Budget
+	+ York County Tax 
+	+ Total Education Budget
+
+Total Revs to be Raised = 
+	+ Tax Rev to be Raised for School 
+	+ Total City Ops 
+	+ Tax Rev to be Raised for County Tax 
+	+ Total City Debt to be Serviced
+	+ Total Capital Projects
+
+Budget Tax Rev. to be Raised =
+	+ Tax Rev to be Raised for School
+	+ Tax Rev to be Raised for County Tax
+	+ Tax rev to be Raised for City Operations (it = Total City Budget - other non-tax rev)
+
+Total Tax Revenue to be Raised =
+	+ Budget tax Revenue to be Raised
+	+ TIF Amount to be Raised
+	+ Estimated Overlay to be Raised
+
+
+
+
+						Totals
+Category				2007		2008		2009		2010
+Expenditures			52,620,509 	54,880,279	55,492,424 	61,654,463.00
+Revenues to be Raised 	38,510,456 	42,082,216  42,449,578 
+TIF Amount to be 		411,169		721,869 	598,944 
+ Raised
+Budget Tax Rev.			31,386,292	35,025,010  34,891,030 
+ to be Raised
+Total tax Rev.						34,219,933  35,609,493  
+ to be Raised
+
+2010 numbers
+Grand Total Expense Budget 61,654,463.00
+PWWWMaint 748,565.00
+IndPretret 169,374.00
+SewerOps 3,789,518.00
+RecFields 65,947.00
+RecRossCtr 7,242.00
+RecGenProg 186,188.00
+CDBGSidewk 401,874.00
+EnvrnmtOps 116,252.00
+CommTVOps 406,563.00
+AirportOps 266,085.00
+CDBGAdmin 80,000.00
+EconDevelp 4,009.00
+MoorFees 23,159.00
+AdEdPrgExp 585,849.00
+
+Educ Expns 30,562,521.00
+
+CIPPubWork 390,800.00
+CIPPubSafe 108,300.00
+CIPPubSrvs 24,975.00
+CIPGenGovt 86,000.00
+TransferOu 912,455.00
+-- didn't finish transfering expenses
+
+
+
+PropTaxRev 34,615,440.00
+ExcsTaxRev 2,419,500.00
+StRevShrRv 1,900,000.00
+RegFeeRev 51,000.00
+GGFeesRev 383,513.00
+PSrFeesRev 14,885.00
+PSfFeesRev 1,257,453.00
+PWFeesRev 352,150.00
+StRevShrRv 1,900,000.00
+HomestdRev 309,278.00
+GGIntgovRv 7,500.00
+PSrIntgvRv 42,550.00
+PSfIntgvRv 10,000.00
+PWIntgovRv 221,900.00
+EdSubsiRev 10,439,001.00
+EdIntgovRv 1,598,915.00
+StateBETE 65,472.00
+InterestRv 125,000.00
+GGOtherRev 56,000.00
+PSrOthrRv 39,000.00
+EdOtherRev 5,000.00
+EdFundBal 1,445,505.00
+Transfer I 30,625.00
+MoorFees 23,159.00
+EconDevelp 4,009.00
+CDBGAdmin 481,874.00
+AirportOps 237,425.00
+CommTVOps 406,563.00
+EnvrnmtOps 116,252.00
+RecGenProg 259,377.00
+SewerOps 4,557,457.00
+IndPretret 150,000.00
+
+
+
+
+
+2011 Numbers
+Property Taxes 34,808,852.00
+Excise Taxes 2,393,000.00
+Registration Fees 50,700.00
+Gen Govt Licenses, Permits & F 543,773.00
+Pub Srvcs Licenses, Permits & 13,485.00
+Pub Safety Licenses, Permits & 1,195,500.00
+Pub Works Licenses, Permits & 368,150.00
+State Revenue Sharing 1,475,000.00
+State Homestead Exemption 271,656.00
+Gen Govt Intergovernmental 6,000.00
+Pub Srvcs Intergovernmental 38,499.00
+Pub Safety Intergovernmental 10,000.00
+Pub Works Intergovernmental 175,000.00
+State Education Subsidy 8,946,342.00
+Education Intergovernmental 1,659,998.00
+State BETE Program Reimburse 149,014.00
+Investment Income 80,000.00
+Gen Govt Other 56,000.00
+Pub Srvcs Other 41,000.00
+Education Other 5,000.00
+Use of Education Fund Balance 1,415,383.00
+Use of Prior Year F/B-City 350,000.00
+
+General Fund 54,088,628.00
+
+
+Mooring Fees Fund 23,217.00
+Pool Beach Permits Fund 58,765.00
+Economic Development Fund 4,186.00
+CDBG Grants Fund 482,788.00
+Airport Operating Fund 129,000.00
+Community TV Center Fund 497,430.00
+Environmental Reserve Fund 92,644.00
+Recreation Programs Fund 268,273.00
+Sewer Operations Fund 4,465,283.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
