@@ -1,4 +1,4 @@
-# Welcome to the Biddeford Pool Improvement Association Open Source Projects and Data
+# Welcome
 
 **Goal:** to empower BPL stakeholders in making this jewel of an area even more precious
 
