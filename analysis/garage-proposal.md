@@ -5,7 +5,7 @@ After a contentious mayoral campaign where the big issue centered around adding 
 Are there other options to increase overall valuation of property values that are in line with what the city projects for this new garage?
 
 ## Findings
-The city's provided [projection numbers][https://www.biddefordmaine.org/2913/Downtown-Parking-Garage-Project-Informat] for total revenues generated via new property taxes and parking revenues are:
+The city's provided [projection numbers](https://www.biddefordmaine.org/2913/Downtown-Parking-Garage-Project-Informat) for total revenues generated via new property taxes and parking revenues are:
  
  *Post Development Completion*
  - 10 Years: `$16,407,604`
@@ -18,11 +18,11 @@ The projected windfall that this garage is giant and would be hard to replicate 
 There are though a couple current development patterns that are, relative to the city, very productive on a sq foot valuation basis which is important because land is the limiting factor. 
 
 ### Total Value of Parcel Per Square Foot of Land Area
-(images/garage/total-value-sq-foot.png "Biddeford Total Value of Parcel Per Square Foot of Land Area")
+![](images/garage/total-value-sq-foot.png "Biddeford Total Value of Parcel Per Square Foot of Land Area")
 
 
 ### Top 20 Performing Properties Per Square Foot of Land Area
-(../images/garage/top-20-sq-foot-land-area-valuations.jpg "Top 20 Biddeford Total Value of Parcel Per Square Foot of Land Area")
+![](../images/garage/top-20-sq-foot-land-area-valuations.jpg "Top 20 Biddeford Total Value of Parcel Per Square Foot of Land Area")
 
 
 A good portion of these properties are likely going to be underwater in the near future and this study is looking to expand the tax base into the future so the next step is to filter for the properties that likely will still be around in the future. This research is depending on the domain knowledge on likely underwater status in creating the filtering list. This list consists of all properties on:
