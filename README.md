@@ -6,10 +6,9 @@
 
 ## Live Open Source Projects
 *Downtown Garage Property Tax Analysis* 
-> Biddeford, Maine, just went through a contentious mayoral campaign where the big issue centered around adding a giant parking lot in the heart of the downtown and whether it was a smart idea to continue being so development focus in that one spot. The incumbent heavily favored the continued development push while the challenger gained his legitimacy to run via earlier challenges to the parking lot development pushes. The incumbent won by a little over 200 votes so this garage will likely be built but the opposing side never ran the analytics on other scenarios....
+> Leveraging an open-ended grad level big data research project to analysis Biddeford's proposed garage development in downtown and alternative ways to generate similar tax revenues for the city
 
-[**Read More**](analysis/garage-proposal.md)
-
+[**Findings**](analysis/garage-proposal.md)
 
 ## Folder Structure
 - analysis: markdown files that summarize juptyer-notebook work done
