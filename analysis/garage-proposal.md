@@ -18,7 +18,7 @@ The projected windfall that this garage is giant and would be hard to replicate 
 There are though a couple current development patterns that are, relative to the city, very productive on a sq foot valuation basis which is important because land is the limiting factor. 
 
 ### Total Value of Parcel Per Square Foot of Land Area
-![](images/garage/total-value-sq-foot.png "Biddeford Total Value of Parcel Per Square Foot of Land Area")
+![](../images/garage/total-value-sq-foot.png "Biddeford Total Value of Parcel Per Square Foot of Land Area")
 
 
 ### Top 20 Performing Properties Per Square Foot of Land Area
@@ -61,16 +61,15 @@ The Hills Beach Rd. and the Seventh St. are likely going to be underwater in the
 
 Something to note is that Gooch Street has a handful of borderline abandoned buildings and it's very close to the condo/ apartment complex that is 75 Saco Falls Way.
 
-
 ##### Aerial View of Gooch and Saco Falls Way
-<img src="ariel-saco-falls-gooch-st.jpg" />
+![](../images/garage/ariel-saco-falls-gooch-st.jpg)
 
 #### Street View of Gooch Street
-<img src="gooch-st-street-view.jpg" />
+![](../images/garage/gooch-st-street-view.jpg)
 
+### Street View of Saco Falls Way
+![](../images/garage/75-saco-falls-way-street-view.jpg)
 
-#### Street View of Saco Falls Way
-<img src="75-saco-falls-way-street-view.jpg" />
 
 Visibily these lots look quiet similiar with the main difference between them is one has been redeveloped to be offices and apartments while the other spot has not.
 
@@ -94,10 +93,7 @@ These improvements alone will not suffice. Main Street improvements and the Lest
 
 
 ##### Lester B. Orcutt BLVD
-
-<img src="9-lb-orcutt-blvd-street-view.jpg" />
-
-
+![](../images/garage/9-lb-orcutt-blvd-street-view.jpg)
 
 Quickly looking at the build to land values and the total values these properties on their own are not going to make noticble dents to reaching the garage value add goals.
 
@@ -113,17 +109,13 @@ This is so time is not spent any further looking at properties where adding or m
 **47 and 49 Main St.**
 
 Notice the left side is an empty mill building while across the street is some of the most productive real estate in the city. 
-
-<img src="images/main-street-street-view.jpg" />
-
-
+![](../images/garage/main-street-street-view.jpg)
 
 **145 Main St.***
 
 Notice that the style is similar but renovated, one-two stories taller and next to a small park.
 
-<img src="images/145-main-st-street-view.jpg" />
-
+![](../images/garage/145-main-st-street-view.jpg)
 
 Note:
 - Sq_Foot_Val: `7.166755e+02 ($71.66)`
@@ -146,7 +138,3 @@ print(two_main_st_B_potenial_value_add)
 1845043.4719999998
 ```
 
-## Conclusions
-
-
-This analysis has not looked at other municipalities and what are normal sq foot valuations in Maine or in the US but to achieve similar valuation increases as the proposed garage project means multiple large for Biddeford development projects (8-12 Saco Falls Way redevelopment projects) or making already relatively very productive streets much more productive (i.e. making the max building value per square foot the average).
