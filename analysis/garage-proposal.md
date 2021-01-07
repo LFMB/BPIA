@@ -1,5 +1,5 @@
 ## About
-After a contentious mayoral campaign where the big issue centered around adding a multi-story parking garage in the heart of the downtown, the main proponent of this development - Mayor Casavant - was re-elected. There were plenty of emotions but little data anaylsis publicaly done. This ditchononmy launched the following research.
+After a contentious mayoral campaign where the big issue centered around adding a multi-story parking garage in the heart of the downtown, the main proponent of this development - Mayor Casavant - was re-elected. There was plenty of emotion, but little data analysis publicly done. This dichotomy launched the following research.
 
 ## Research Question
 Are there other options to increase overall valuation of property values that are in line with what the city projects for this new garage?
@@ -11,9 +11,9 @@ The city's provided [projection numbers](https://www.biddefordmaine.org/2913/Dow
  - 10 Years: `$16,407,604`
  - 30 Years: `$39,772,744`
 
-and financial year 2020's stated effectived mill rate is `$20.07` for a `$1,000` with assuming everything is priced in today's dollars means to create the average 10 year increase of `$1,640,760` the overall property base needs to increase by `$82,120,100` while the 30 year average revenue of `$1,325,758` means a total property value increase of `$66,354,300`. These increases might roughly equate 2.5% and 3.1% of biddeford's total valuation but they are relatively giant in regards to project size. The average parcel value of over 80,000 plots is `$338,556`. 
+and financial year 2020's stated effective mill rate is `$20.07` for a `$1,000` with assuming everything is priced in today's dollars means to create the average `10-year` increase of `$1,640,760` the overall property base needs to increase by `$82,120,100` while the `30-year` average revenue of `$1,325,758` means a total property value increase of `$66,354,300`. These increases might roughly equate `2.5%` and `3.1%` of Biddeford’s total valuation but they are relatively giant regarding project size. The average parcel value of over `80,000` plots is `$338,556`.
 
-The projected windfall that this garage is giant and would be hard to replicate on an individual project basis. A powerful financial driver is the fact the city does not soley rely upon the approx. 2% tax on property but also includes revenues from parking which I believe will be split with with a private company. 
+The projected windfall that this garage is giant and would be hard to replicate on an individual project basis. A powerful financial driver is the fact the city does not solely rely upon the approx. `2%` tax on property but also includes revenues from parking which I believe will be split with a private company.
 
 There are though a couple current development patterns that are, relative to the city, very productive on a sq foot valuation basis which is important because land is the limiting factor. 
 
@@ -25,7 +25,7 @@ There are though a couple current development patterns that are, relative to the
 ![](../images/garage/top-20-sq-foot-land-area-valuations.jpg "Top 20 Biddeford Total Value of Parcel Per Square Foot of Land Area")
 
 
-A good portion of these properties are likely going to be underwater in the near future and this study is looking to expand the tax base into the future so the next step is to filter for the properties that likely will still be around in the future. This research is depending on the domain knowledge on likely underwater status in creating the filtering list. This list consists of all properties on:
+A good portion of these properties are likely going to be underwater soon and this study is looking to expand the tax base into the future so the next step is to filter for the properties that likely will still be around in the future. This research is depending on the domain knowledge on likely underwater status in creating the filtering list. This list consists of all properties on:
 
 - FORTUNES ROCKS RD
 - MILE STRETCH RD
@@ -59,7 +59,7 @@ The Hills Beach Rd. and the Seventh St. are likely going to be underwater in the
 - 7 BAYVIEW AVE
 - 47 MAIN ST
 
-Something to note is that Gooch Street has a handful of borderline abandoned buildings and it's very close to the condo/ apartment complex that is 75 Saco Falls Way.
+Something to note is that Gooch Street has a handful of borderline abandoned buildings and it is very close to the condo/ apartment complex that is 75 Saco Falls Way.
 
 ##### Aerial View of Gooch and Saco Falls Way
 ![](../images/garage/ariel-saco-falls-gooch-st.jpg)
@@ -71,7 +71,7 @@ Something to note is that Gooch Street has a handful of borderline abandoned bui
 ![](../images/garage/75-saco-falls-way-street-view.jpg)
 
 
-Visibily these lots look quiet similiar with the main difference between them is one has been redeveloped to be offices and apartments while the other spot has not.
+Visibly these lots look quite similar with the main difference between them is one has been redeveloped to be offices and apartments while the other spot has not.
 
 ```
 gooch_st_becomes_saco_falls = (7037400 * 2) - 1041000
@@ -86,7 +86,7 @@ print(gooch_st_improvements_30_years_percent, gooch_st_improvements_10_years_per
 ```
 
 
-Doing a rough calculation and assuming that cloning the build value pf 75 Saco Falls is a likely possibility for the two Gooch street populations the new value would cover ~ `20%` and `16%` for the `30 year` and `10 year` benchmarks.
+Doing a rough calculation and if cloning the build value pf 75 Saco Falls is a likely possibility for the two Gooch street populations the new value would cover ~ `20%` and `16%` for the `30 year` and `10 year` benchmarks.
 
 
 These improvements alone will not suffice. Main Street improvements and the Lester B. Orcutt BLVD parcel(s) look promising.
@@ -95,13 +95,13 @@ These improvements alone will not suffice. Main Street improvements and the Lest
 ##### Lester B. Orcutt BLVD
 ![](../images/garage/9-lb-orcutt-blvd-street-view.jpg)
 
-Quickly looking at the build to land values and the total values these properties on their own are not going to make noticble dents to reaching the garage value add goals.
+Quickly looking at the build to land values and the total values these properties on their own are not going to make noticeable dents to reaching the garage value add goals.
 
 This analysis probably should also look at: 
-- land value as a percent of of total value
+- land value as a percent of total value
 - build value per sq foot
 
-This is so time is not spent any further looking at properties where adding or modifying the development on said land would produce negible effects on reaching the garage valuation hurdle.
+This is so time is not spent any further looking at properties where adding or modifying the development on said land would produce negligible effects on reaching the garage valuation hurdle.
 
 
 #### Main St. Parcels 
@@ -125,7 +125,7 @@ Note:
 ##### Value Generation Ideas:
 
 - Wonder how much new value would be added if the second part of 2 Main Street's building was valued at the same rate of the first part on a sq foot basis?
-- What does 6 Main Street look like with build sq valution at the mean instead of the low end?
+- What does 6 Main Street look like with build sq valuation at the mean instead of the low end?
 
 #### 2 Main Street Build Improvements
 
